@@ -1,2 +1,2 @@
-# dio-banco-pan-java-developer
-Projeto do Banco Pan
+# Bootcamp do Banco Pan Java Developer
+Projeto do Banco Pan na DIO
